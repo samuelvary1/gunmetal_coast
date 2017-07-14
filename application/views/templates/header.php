@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>CodeIgniter Tutorial</title>
+    <title>Gunmetal Coast</title>
   </head>
   <body>
 	<div class="container" style="margin-top: 20px">
