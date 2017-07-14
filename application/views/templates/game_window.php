@@ -4,10 +4,10 @@
   </div>
 
   <div class="messages">
-    <p>Go north</p>
+    <p style="font-weight:bold">Go north</p>
   </div>
   <div class="messages">
-    <p>You reach the crossroads at the north end of the village square.</p>
+    <p><i>You reach the crossroads at the north end of the village square.</i></p>
   </div>
 </div>
 
