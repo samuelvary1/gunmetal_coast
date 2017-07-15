@@ -1,5 +1,5 @@
 <!-- prebid.php -->
-
+<!DOCTYPE HTML>
 <html>
 <head>
   <!-- Prebid Config Section START -->
