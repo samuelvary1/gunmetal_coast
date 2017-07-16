@@ -19,8 +19,7 @@
     </div>
 
     <div class="container" style="margin-top:20px">
-      <form action="/action_page.php">
-        <p style="font-weight: bold">Enter Command: </p><input type="text" name="command">
+      <p style="font-weight: bold">Enter Command: </p><input type="text" name="command">
       <input type="submit" value="Submit" class="btn-primary">
     </div>
 
