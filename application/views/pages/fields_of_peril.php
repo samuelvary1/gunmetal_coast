@@ -19,7 +19,7 @@
 	function do_get(url, callback) {
     jQuery.ajax({
       type: 'GET',
-      url: api_endpoint + url,
+      url: url,
       error: do_api_error,
       success: callback,
       dataType: 'json',
