@@ -20,7 +20,7 @@
     jQuery.ajax({
       type: 'GET',
       url: url,
-      error: do_api_error,
+      // error: do_api_error,
       success: callback,
       dataType: 'json',
       contentType: "application/json"
