@@ -7,7 +7,7 @@
 
 <script>
 
-	$('#set_budget').click(save_budget_setting);
+	$('#set_budget').click(get_all_locations);
 	
 	function get_all_locations() {
 		do_get("location/get_all_locations",
