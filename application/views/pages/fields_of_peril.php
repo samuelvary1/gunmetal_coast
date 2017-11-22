@@ -10,9 +10,9 @@
 	function get_all_locations() {
 		do_get("location/get_all_locations",
 			function(data) {
-					debugger;
-				}
-		};
+				debugger;
+		});
+	}
 
 	function do_get(url, callback) {
     jQuery.ajax({
