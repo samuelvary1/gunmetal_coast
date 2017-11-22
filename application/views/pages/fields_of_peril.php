@@ -12,8 +12,7 @@
 			function(data) {
 					debugger;
 				}
-		});
-	}
+		};
 
 	function do_get(url, callback) {
     jQuery.ajax({
