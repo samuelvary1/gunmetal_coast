@@ -51,3 +51,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $route['default_controller'] = 'pages/view';
 $route['(:any)'] = 'pages/view/$1';
+
+
+
+$route['locations/get_all_locations'] = 'locations/get_all_locations';
