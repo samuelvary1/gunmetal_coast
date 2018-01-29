@@ -48,7 +48,7 @@
   <!-- Prebid Config Section END -->
   
   <!-- Prebid Boilerplate Section START. No Need to Edit. -->
-  <script type="text/javascript" src="//acdn.adnxs.com/prebid/not-for-prod/prebid.js" async></script>
+  <script type="text/javascript" src="//acdn.adnxs.com/prebid/not-for-prod/1/prebid.js" async></script>
   <script>
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
