@@ -22,7 +22,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'sams_literary_novelties_300x250'
+               inventoryCode: 'lovetoknow_topright_desktop'
             }
         }]
     },{
@@ -38,7 +38,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'sams_literary_novelties_728x90'
+               inventoryCode: 'lovetoknow_topright_desktop'
             }
         }]
     }];
