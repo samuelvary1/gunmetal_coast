@@ -22,7 +22,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'lovetoknow_topright_desktop'
+               inventoryCode: 'lovetoknow_leaderboard_mobile'
             }
         }]
     },{
@@ -38,7 +38,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'lovetoknow_topright_desktop'
+               inventoryCode: 'lovetoknow_leaderboard_mobile'
             }
         }]
     }];
