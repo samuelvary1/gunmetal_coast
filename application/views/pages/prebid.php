@@ -22,7 +22,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'lovetoknow_leaderboard_mobile'
+               inventoryCode: 'thechive_desktop_970x250'
             }
         }]
     },{
@@ -38,7 +38,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'lovetoknow_leaderboard_mobile'
+               inventoryCode: 'thechive_desktop_300x600'
             }
         }]
     }];
