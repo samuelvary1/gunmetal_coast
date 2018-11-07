@@ -11,14 +11,8 @@
 
     var adUnits = [{
         code: 'div-gpt-ad-1460505748561-0',
-        sizes: [[300, 250], [300,250]],
+        sizes: [[300, 250]],
         bids: [
-        {
-            bidder: 'appnexus',
-            params: {
-               placementId: '10433394'
-            }
-        },
         {
             bidder: 'triplelift',
             params: {
@@ -27,18 +21,12 @@
         }]
     },{
         code: 'div-gpt-ad-1460505661639-0',
-        sizes: [[728, 90], [970, 90]],
+        sizes: [[300, 250]],
         bids: [
-        {
-            bidder: 'appnexus',
-            params: {
-               placementId: '10433394'
-            }
-        },
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'weather_desktop_300x250'
+               inventoryCode: 'weather_desktop_300x250_TEST'
             }
         }]
     }];
