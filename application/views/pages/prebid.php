@@ -11,7 +11,7 @@
 
     var adUnits = [{
         code: 'div-gpt-ad-1460505748561-0',
-        sizes: [[300, 250], [300,600]],
+        sizes: [[300, 250], [300,250]],
         bids: [
         {
             bidder: 'appnexus',
@@ -22,7 +22,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'thechive_desktop_970x250'
+               inventoryCode: 'weather_desktop_300x250'
             }
         }]
     },{
@@ -38,7 +38,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'thechive_desktop_300x600'
+               inventoryCode: 'weather_desktop_300x250'
             }
         }]
     }];
