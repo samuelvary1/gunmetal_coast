@@ -21,12 +21,12 @@
         }]
     },{
         code: 'div-gpt-ad-1460505661639-0',
-        sizes: [[300, 250]],
+        sizes: [[300, 600]],
         bids: [
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'weather_desktop_300x250_TEST'
+               inventoryCode: 'weather_desktop_300x600_video'
             }
         }]
     }];
@@ -85,9 +85,9 @@
 
   <script>
     googletag.cmd.push(function () {
-        googletag.defineSlot('/19968336/header-bid-tag-0', [[300, 250], [300, 600]], 'div-gpt-ad-1460505748561-0').addService(googletag.pubads());
+        googletag.defineSlot('/19968336/header-bid-tag-0', [[300, 250]], 'div-gpt-ad-1460505748561-0').addService(googletag.pubads());
 
-        googletag.defineSlot('/19968336/header-bid-tag1', [[728, 90], [970, 90]], 'div-gpt-ad-1460505661639-0').addService(googletag.pubads());
+        googletag.defineSlot('/19968336/header-bid-tag1', [[300, 600]], 'div-gpt-ad-1460505661639-0').addService(googletag.pubads());
 
         googletag.pubads().enableSingleRequest();
         googletag.enableServices();
