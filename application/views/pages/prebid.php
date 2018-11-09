@@ -26,7 +26,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'weather_desktop_300x600_video'
+               inventoryCode: 'weather_desktop_300x250_TEST'
             }
         }]
     }];
@@ -97,14 +97,14 @@
 
 <body>
 <h2>Prebid.js Test</h2>
-<h5>300x250 Div</h5>
+<h5>300x250 Div 1</h5>
 <div id='div-gpt-ad-1460505748561-0'>
     <script type='text/javascript'>
         googletag.cmd.push(function() { googletag.display('div-gpt-ad-1460505748561-0'); });
     </script>
 </div>
 
-<h5>728x90 Div</h5>
+<h5>300x250 Div 2</h5>
 <div id='div-gpt-ad-1460505661639-0'>
     <script type='text/javascript'>
         googletag.cmd.push(function() { googletag.display('div-gpt-ad-1460505661639-0'); });
