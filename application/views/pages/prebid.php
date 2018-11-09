@@ -16,7 +16,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'weather_desktop_300x250'
+               inventoryCode: 'weather_desktop_300x250_TEST'
             }
         }]
     },{
@@ -26,7 +26,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'weather_desktop_300x250_TEST'
+               inventoryCode: 'weather_desktop_300x250'
             }
         }]
     }];
@@ -87,7 +87,7 @@
     googletag.cmd.push(function () {
         googletag.defineSlot('/19968336/header-bid-tag-0', [[300, 250]], 'div-gpt-ad-1460505748561-0').addService(googletag.pubads());
 
-        googletag.defineSlot('/19968336/header-bid-tag1', [[300, 600]], 'div-gpt-ad-1460505661639-0').addService(googletag.pubads());
+        googletag.defineSlot('/19968336/header-bid-tag1', [[300, 250]], 'div-gpt-ad-1460505661639-0').addService(googletag.pubads());
 
         googletag.pubads().enableSingleRequest();
         googletag.enableServices();
