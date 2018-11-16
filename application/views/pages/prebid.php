@@ -7,7 +7,7 @@
   <!-- Prebid Config Section START -->
   <!-- Make sure this is inserted before your GPT tag -->
   <script> 
-    var PREBID_TIMEOUT = 10000;
+    var PREBID_TIMEOUT = 50000;
 
     var adUnits = [{
         code: 'div-gpt-ad-1460505748561-0',
