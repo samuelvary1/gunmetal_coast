@@ -111,12 +111,5 @@
     </script>
 </div>
 
-<h5>300x250 Div 3</h5>
-<div id='div-gpt-ad-1460505661639-0'>
-    <script type='text/javascript'>
-        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1460505661639-0'); });
-    </script>
-</div>
-
 </body>
 </html>

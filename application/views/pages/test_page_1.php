@@ -10,9 +10,9 @@
   </head>
   <body>
 
-    <div class="container">
-    	<script>window.parent.postMessage("get_unit_2({'pixel':'[[[CLICKURL]]]','tag_code':0,'auction_id':0,'user_id':0,'campaign_code':'1056862'},{\"[TL[[CAMPAIGNID]]]\":\"[[[CAMPAIGNID]]]\",\"[TL[[CREATIVEID]]]\":\"[[[CREATIVEID]]]\",\"[TL[[CACHEBUSTER]]]\":\"[[[CACHEBUSTER]]]\",\"[TL[[SITE_DOMAIN]]]\":\"[[[SITE_DOMAIN]]]\"});", "*");</script> 
-    </div>
+  	<div class="container_1"><script src="//ib.3lift.com/ttj?inv_code=wayfair_home_desktop"></script></div>
+  	<div class="container_2"><script src="//ib.3lift.com/ttj?inv_code=wayfair_home_desktop"></script></div>
+  	<div class="container_3"><script src="//ib.3lift.com/ttj?inv_code=wayfair_home_desktop"></script></div>
 
   </body>
 </html>
