@@ -16,7 +16,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'wayfair_home_desktop'
+               inventoryCode: 'Wayfair_Home_Desktop_Block1'
             }
         }]
     },{
@@ -26,7 +26,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'wayfair_home_desktop'
+               inventoryCode: 'Wayfair_Home_Desktop_Block2'
             }
         }]
     }];
