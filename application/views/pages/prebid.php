@@ -14,7 +14,7 @@
 		        }]
 		    },{
 		        code: 'div-gpt-ad-1460505661639-0',
-		        sizes: [[300, 600]],
+		        sizes: [[300, 250]],
 		        bids: [
 		        {
 		            bidder: 'triplelift',
