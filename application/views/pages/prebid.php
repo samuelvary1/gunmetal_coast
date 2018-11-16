@@ -1,34 +1,28 @@
-<!--
-  This page calls a single bidder for a single ad slot. It can be considered a "hello world" example for using
-  Prebid with the Google Publisher Tag.
-  It also makes a good test page for new adapter PR submissions. Simply set your server's Bid Params object in the
-  bids array inside the adUnits, and it will use your adapter to load an ad.
-  NOTE that many ad servers won't send back an ad if the URL is localhost... so you might need to
-  set an alias in your /etc/hosts file so that you can load this page from a different domain.
--->
-
 <html>
   <head>
       <script>
-        var PREBID_TIMEOUT = 3300;
-  
-        var adUnits = [{
-          code: 'div-gpt-ad-1460505748561-0',
-          mediaTypes: {
-            banner: {
-              sizes: [[300, 250], [300,600]],
-            }
-          },
-          // Replace this object to test a new Adapter!
-            bids: [
-                {
-                    bidder: 'triplelift',
-                    params: {
-                       inventoryCode: 'Wayfair_Home_Desktop_Block1'
-                    }
-                }]
-  
-        }];
+		    var PREBID_TIMEOUT = 50000;
+		    var adUnits = [{
+		        code: 'div-gpt-ad-1460505748561-0',
+		        sizes: [[300, 250]],
+		        bids: [
+		        {
+		            bidder: 'triplelift',
+		            params: {
+		               inventoryCode: 'wayfair_home_desktop'
+		            }
+		        }]
+		    },{
+		        code: 'div-gpt-ad-1460505661639-0',
+		        sizes: [[300, 600]],
+		        bids: [
+		        {
+		            bidder: 'triplelift',
+		            params: {
+		               inventoryCode: 'wayfair_home_desktop'
+		            }
+		        }]
+		    }];
   
         var pbjs = pbjs || {};
         pbjs.que = pbjs.que || [];
@@ -80,13 +74,32 @@
         })();
       </script>
   
-      <script>
-        googletag.cmd.push(function () {
-          googletag.defineSlot('/19968336/header-bid-tag-0', [[300, 250], [300, 600]], 'div-gpt-ad-1460505748561-0').addService(googletag.pubads());
-  
-          googletag.pubads().enableSingleRequest();
-          googletag.enableServices();
-        });
-      </script>
+       <script>
+         googletag.cmd.push(function () {
+             googletag.defineSlot('/19968336/header-bid-tag-0', [[300, 250]], 'div-gpt-ad-1460505748561-0').addService(googletag.pubads());
+     
+             googletag.defineSlot('/19968336/header-bid-tag1', [[300, 250]], 'div-gpt-ad-1460505661639-0').addService(googletag.pubads());
+     
+             googletag.pubads().enableSingleRequest();
+             googletag.enableServices();
+         });
+       </script>
   </head>
   
+  <body>
+		<h2>Prebid.js Test</h2>
+		<h5>300x250 Div 1</h5>
+		<div id='div-gpt-ad-1460505748561-0'>
+		    <script type='text/javascript'>
+		        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1460505748561-0'); });
+		    </script>
+		</div>
+
+		<h5>300x250 Div 2</h5>
+		<div id='div-gpt-ad-1460505661639-0'>
+		    <script type='text/javascript'>
+		        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1460505661639-0'); });
+		    </script>
+		</div>
+  </body>
+  </html>
