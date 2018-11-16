@@ -16,7 +16,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'weather_desktop_300x250_TEST'
+               inventoryCode: 'wayfair_home_desktop'
             }
         }]
     },{
@@ -26,7 +26,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'weather_desktop_300x250'
+               inventoryCode: 'wayfair_home_desktop'
             }
         }]
     }];
@@ -105,6 +105,13 @@
 </div>
 
 <h5>300x250 Div 2</h5>
+<div id='div-gpt-ad-1460505661639-0'>
+    <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1460505661639-0'); });
+    </script>
+</div>
+
+<h5>300x250 Div 3</h5>
 <div id='div-gpt-ad-1460505661639-0'>
     <script type='text/javascript'>
         googletag.cmd.push(function() { googletag.display('div-gpt-ad-1460505661639-0'); });
