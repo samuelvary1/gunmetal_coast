@@ -10,9 +10,9 @@
   </head>
   <body>
 
-  	<div class="container_1"><script src="//ib.3lift.com/ttj?inv_code=wayfair_home_desktop"></script></div>
-  	<div class="container_2"><script src="//ib.3lift.com/ttj?inv_code=wayfair_home_desktop"></script></div>
-  	<div class="container_3"><script src="//ib.3lift.com/ttj?inv_code=wayfair_home_desktop"></script></div>
+  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=wayfair_home_desktop"></script></div>
+  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=wayfair_home_desktop"></script></div>
+  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=wayfair_home_desktop"></script></div>
 
   </body>
 </html>
