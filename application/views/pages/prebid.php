@@ -15,7 +15,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'wayfair_home_desktop'
+               inventoryCode: 'weather_desktop_300x250'
             }
         }]
     },{
@@ -25,7 +25,7 @@
         {
             bidder: 'triplelift',
             params: {
-               inventoryCode: 'wayfair_home_desktop'
+               inventoryCode: 'weather_desktop_300x250_TEST'
             }
         }]
     }];
