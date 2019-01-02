@@ -12,9 +12,9 @@
   </head>
   <body>
 
-  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=cafemom_sticky_mobile"></script></div>
-  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=cafemom_sticky_mobile"></script></div>
-  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=cafemom_sticky_mobile"></script></div>
+  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=bloomberg_desktop_ROS_300x600"></script></div>
+  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=bloomberg_desktop_ROS_300x600"></script></div>
+  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=bloomberg_desktop_ROS_300x600"></script></div>
 
   </body>
 </html>
