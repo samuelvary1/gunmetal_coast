@@ -10,9 +10,9 @@
   </head>
   <body>
 
-  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=sams_literary_novelties_300x250_dupe"></script></div>
-  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=sams_literary_novelties_300x250_dupe"></script></div>
-  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=sams_literary_novelties_300x250_dupe"></script></div>
+  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=bloomberg_desktop_ROS_970x250"></script></div>
+  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=bloomberg_desktop_ROS_300x600"></script></div>
+  	
 
   </body>
 </html>
