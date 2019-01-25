@@ -10,8 +10,8 @@
   </head>
   <body>
 
-  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=bloomberg_desktop_ROS_970x250"></script></div>
-  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=bloomberg_desktop_ROS_300x600"></script></div>
+  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=Zulily_Desktop_Sales_Flex"></script></div>
+  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=Zulily_Mobile_Sales_Flex"></script></div>
   	
 
   </body>
