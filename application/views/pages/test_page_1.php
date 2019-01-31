@@ -10,8 +10,8 @@
   </head>
   <body>
 
-  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=hometalk_desktop_leaderboard"></script></div>
-  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=hometalk_desktop_rightrail"></script></div>
+  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=bloomberg_desktop_ROS_970x250"></script></div>
+  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=bloomberg_desktop_ROS_300x600"></script></div>
   	
 
   </body>
