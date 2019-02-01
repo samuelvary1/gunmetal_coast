@@ -10,8 +10,8 @@
   </head>
   <body>
 
-  	<div style="display: block;"><script src="//localhost:8001/ttj?inv_code=hometalk_desktop_leaderboard"></script></div>
-  	<div style="display: block;"><script src="//localhost:8001/ttj?inv_code=hometalk_desktop_rightrail"></script></div>
+  	<div style="display: block;"><script src="//staging-ib.3lift.com/ttj?inv_code=hometalk_desktop_leaderboard"></script></div>
+  	<div style="display: block;"><script src="//staging-ib.3lift.com/ttj?inv_code=hometalk_desktop_rightrail"></script></div>
   	
 
   </body>
