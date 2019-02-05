@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8"> 
-<title>Widgets Magazine</title> 
+<title>Testing</title> 
 <style type="text/css" media="screen"> 
 </style>
 
