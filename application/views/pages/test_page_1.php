@@ -11,7 +11,7 @@
   <body>
 
   	<div style="display: block;"><script src="//staging-ib.3lift.com/ttj?inv_code=test_duplicate_placement_6"></script></div>
-  	<div style="display: block;"><script src="//staging-ib.3lift.com/ttj?inv_code=bloomberg_desktop_ROS_300x600"></script></div>
+  	<div style="display: block;"><script src="//staging-ib.3lift.com/ttj?inv_code=jimbo_jones"></script></div>
   	
 
   </body>
