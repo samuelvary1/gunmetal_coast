@@ -10,9 +10,9 @@
   </head>
   <body>
     <h1>Current Inv Code: "test_duplicate_placement_6"</h1>
-  	<div style="display: block;"><script src="//staging-ib.3lift.com/ttj?inv_code=test_duplicate_placement_6"></script></div><br>
+  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=test_duplicate_placement_6"></script></div><br>
     <h1>Current Inv Code: "jimbo_jones"</h1>
-  	<div style="display: block;"><script src="//staging-ib.3lift.com/ttj?inv_code=jimbo_jones"></script></div>
+  	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=jimbo_jones"></script></div>
   	
 
   </body>
