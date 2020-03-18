@@ -14,8 +14,14 @@
     <h1>Current Inv Code: "jimbo_jones"</h1>
   	<div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=jimbo_jones"></script></div>
  -->  	
-    <h1>Current Inv Code: "sam_test_hdx_only_300x300"</h1>
-    <div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=sam_test_hdx_only_300x300"></script></div>
+    <h1>Current Inv Code: "pagesix_300x250_amp"</h1>
+    <div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=pagesix_300x250_amp"></script></div>
+    
+    <h1>Current Inv Code: "theverge_300x250_mobile_TAM_AMP"</h1>
+    <div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=theverge_300x250_mobile_TAM_AMP"></script></div>
+    
+    <h1>Current Inv Code: "vox_300x250_mobile_TAM_AMP"</h1>
+    <div style="display: block;"><script src="//ib.3lift.com/ttj?inv_code=vox_300x250_mobile_TAM_AMP"></script></div>
     
 
   </body>
