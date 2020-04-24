@@ -27,6 +27,12 @@
                     params: {
                       inventoryCode: 'sam_test'
                     }
+                },
+                {
+                    bidder: 'triplelift',
+                    params: {
+                      inventoryCode: 'testing_unique_16'
+                    }
                 }]
             }];
 
@@ -58,21 +64,6 @@
                     });
                 });
             }
-            // in case PBJS doesn't load
-            setTimeout(function() {
-                initAdserver();
-            }, FAILSAFE_TIMEOUT);
-
-            googletag.cmd.push(function() {
-                googletag.defineSlot('/19968336/header-bid-tag-0', div_1_sizes, 'div-1').addService(googletag.pubads());
-                googletag.pubads().enableSingleRequest();
-                googletag.enableServices();
-            });
-            googletag.cmd.push(function() {
-                googletag.defineSlot('/19968336/header-bid-tag-1', div_2_sizes, 'div-2').addService(googletag.pubads());
-                googletag.pubads().enableSingleRequest();
-                googletag.enableServices();
-            });
 
         </script>
 
